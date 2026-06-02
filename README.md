@@ -1,44 +1,63 @@
-#<div align="center">
+<div align="center">
 
-# 👨‍💻 CHHANU
+# 👋 Hello, I'm Chhanu Vann
 
-### 🔐 Cybersecurity Enthusiast | 💻 Programmer | 🚀 Lifelong Learner
+### 💻 MIS Student | 🔐 Future Cybersecurity Professional | 🚀 IT Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;Cybersecurity+Student;Learning+Ethical+Hacking;C%2B%2B+%7C+Python+%7C+Linux" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Welcome+to+my+GitHub;Management+Information+Systems+Student;IT+Support+%7C+Web+Design;Future+Cybersecurity+Professional;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-## 🕶️ About Me
-> whoami
+## 🧑‍💻 About Me
+Name: Chhanu Vann
+Location: Phnom Penh, Cambodia 🇰🇭
+Education:
+  - SETEC Institute (MIS)
+  - Paññāsāstra University (IEAP 3)
 
-Name      : Chhanu
-Location  : Cambodia 🇰🇭
-Role      : Student
-Focus     : Cybersecurity & Programming
-Learning  : C++, Python, Linux, Networking
-Status    : Improving every day...
+Interests:
+  - Cybersecurity
+  - Networking
+  - IT Support
+  - Web Development
+  - Technology
 
----
-
-## ⚡ Tech Stack
-
-### Programming Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+Goal:
+  Become a skilled Cybersecurity Professional
 
 ---
 
-## 🔥 GitHub Stats
+## 🔥 Technical Skills
+
+### Programming & Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+### IT & Support
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice)
+
+### Design Tools
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro)
+
+---
+
+## 🎯 Current Learning
+[████████░░░░░░░░░░░] Cybersecurity
+[███████░░░░░░░░░░░░] Networking
+[██████████░░░░░░░░░] IT Support
+[████████░░░░░░░░░░░] Web Development
+
+---
+
+## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
@@ -46,42 +65,39 @@ Status    : Improving every day...
 
 ---
 
-## 📈 Contribution Graph
+## 🤝 Leadership & Volunteer Experience
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
-
----
-
-## 🎯 Current Goals
-
-- 🔐 Learn Ethical Hacking
-- 🐍 Improve Python Skills
-- 🐧 Master Linux
-- 🌐 Learn Networking
-- 🚀 Build Security Projects
+- Union of Youth Federations of Cambodia (UYFC)
+- Soccer League Volunteer
+- Solidarity March Volunteer
+- March For Peace Volunteer
+- Community Event Organizer
 
 ---
 
-## ☠️ Cybersecurity Motto
+## 🌱 2026 Goals
 
-> "Security is not a product, but a process."
+- Learn Linux Administration
+- Learn Python Programming
+- Study Networking Fundamentals
+- Build Real IT Projects
+- Start Cybersecurity Labs
+- Contribute to Open Source
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/)
+📧 Email: Chhanuvann@gmail.com
 
 ---
 
 <div align="center">
 
-### 🟢 SYSTEM STATUS
-[████████████████████] 100%
-Cybersecurity Learning...
+### ⚡ "Learning Today, Securing Tomorrow."
 
-⭐ Thanks for visiting my profile!
+Visitor Count
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
 
 </div>
