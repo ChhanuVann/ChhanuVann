@@ -1,103 +1,124 @@
 <div align="center">
 
-# 👋 Hello, I'm Chhanu Vann
+# Chhanu Vann
 
-### 💻 MIS Student | 🔐 Future Cybersecurity Professional | 🚀 IT Enthusiast
+### Management Information Systems (MIS) Student | IT Support | Future Cybersecurity Professional
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Welcome+to+my+GitHub;Management+Information+Systems+Student;IT+Support+%7C+Web+Design;Future+Cybersecurity+Professional;Always+Learning+New+Technologies" />
+📍 Phnom Penh, Cambodia
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-Name: Chhanu Vann
-Location: Phnom Penh, Cambodia 🇰🇭
-Education:
-  - SETEC Institute (MIS)
-  - Paññāsāstra University (IEAP 3)
+## About Me
 
-Interests:
-  - Cybersecurity
-  - Networking
-  - IT Support
-  - Web Development
-  - Technology
+I am a Management Information Systems (MIS) student at SETEC Institute with a strong interest in Information Technology, Cybersecurity, Networking, and IT Support.
 
-Goal:
-  Become a skilled Cybersecurity Professional
+I enjoy learning new technologies, solving technical problems, and building practical skills through academic projects, volunteering, and self-study.
+
+Currently, I am developing my knowledge in:
+
+- IT Support
+- Networking Fundamentals
+- Cybersecurity
+- Web Development
+- System Administration
 
 ---
 
-## 🔥 Technical Skills
+## Education
 
-### Programming & Web
+### SETEC Institute
+Management Information Systems (MIS)  
+2024 – Present
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+### Paññāsāstra University
+IEAP Program  
+2024 – Present
+
+---
+
+## Technical Skills
 
 ### IT & Support
+- Hardware Troubleshooting
+- Software Installation
+- Windows Administration
+- Microsoft Office
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice)
+### Web Development
+- HTML
+- CSS
 
 ### Design Tools
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Premiere Pro
 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro)
-
----
-
-## 🎯 Current Learning
-[████████░░░░░░░░░░░] Cybersecurity
-[███████░░░░░░░░░░░░] Networking
-[██████████░░░░░░░░░] IT Support
-[████████░░░░░░░░░░░] Web Development
+### Soft Skills
+- Leadership
+- Teamwork
+- Communication
+- Problem Solving
+- Event Coordination
 
 ---
 
-## 📊 GitHub Statistics
+## Experience
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+### Union of Youth Federations of Cambodia (UYFC)
+Volunteer | 2020 – 2024
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+- Assisted in organizing community programs and humanitarian activities
+- Participated in planning educational and cultural events
+- Coordinated with team members to ensure successful event execution
+- Developed communication and leadership skills
 
----
-
-## 🤝 Leadership & Volunteer Experience
-
-- Union of Youth Federations of Cambodia (UYFC)
-- Soccer League Volunteer
-- Solidarity March Volunteer
-- March For Peace Volunteer
-- Community Event Organizer
-
----
-
-## 🌱 2026 Goals
-
-- Learn Linux Administration
-- Learn Python Programming
-- Study Networking Fundamentals
-- Build Real IT Projects
-- Start Cybersecurity Labs
-- Contribute to Open Source
+### Volunteer Activities
+- Soccer League Volunteer (2025)
+- Solidarity March Volunteer (2025)
+- March for Peace Volunteer (2025)
 
 ---
 
-## 📫 Contact
+## Career Objective
+
+I am seeking opportunities to gain practical experience through:
+
+- IT Support Internships
+- Help Desk Positions
+- Junior IT Roles
+- Cybersecurity Training Programs
+- Networking and System Administration Internships
+
+My goal is to build a strong foundation in information technology and grow into a cybersecurity professional.
+
+---
+
+## Current Learning
+
+- Networking Fundamentals
+- Linux Basics
+- Cybersecurity Fundamentals
+- Web Technologies
+- IT Infrastructure
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## Contact
 
 📧 Email: Chhanuvann@gmail.com
 
+💼 Open to Internship Opportunities
+
 ---
 
-<div align="center">
-
-### ⚡ "Learning Today, Securing Tomorrow."
-
-Visitor Count
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
-
-</div>
+> "Continuous learning and practical experience are the foundation of a successful IT career."
