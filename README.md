@@ -1,119 +1,101 @@
 <div align="center">
 
-# Chhanu Vann
+# 👋 Hi, I'm Chhanu Vann
 
-### Management Information Systems (MIS) Student | IT Support | Future Cybersecurity Professional
+### 💻 MIS Student • IT Support Enthusiast • Future Cybersecurity Professional
 
-📍 Phnom Penh, Cambodia
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Management+Information+Systems+Student;IT+Support+and+Networking+Learner;Future+Cybersecurity+Professional;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I am a Management Information Systems (MIS) student at SETEC Institute with a strong interest in Information Technology, Cybersecurity, Networking, and IT Support.
+🎓 Management Information Systems (MIS) Student at SETEC Institute
 
-I enjoy learning new technologies, solving technical problems, and building practical skills through academic projects, volunteering, and self-study.
+📚 IEAP Student at Paññāsāstra University
 
-Currently, I am developing my knowledge in:
+🔐 Interested in Cybersecurity, Networking, and IT Infrastructure
 
-- IT Support
-- Networking Fundamentals
-- Cybersecurity
-- Web Development
-- System Administration
+🛠️ Building practical skills through projects, volunteering, and self-learning
+
+🌱 Currently learning Linux, Networking, Cybersecurity, and Web Development
 
 ---
 
-## Education
+## 💻 Technical Skills
 
-### SETEC Institute
-Management Information Systems (MIS)  
-2024 – Present
+### Programming & Web
 
-### Paññāsāstra University
-IEAP Program  
-2024 – Present
+<p>
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
----
+### IT & Systems
 
-## Technical Skills
-
-### IT & Support
-- Hardware Troubleshooting
-- Software Installation
-- Windows Administration
-- Microsoft Office
-
-### Web Development
-- HTML
-- CSS
+<p>
+<img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode" />
+</p>
 
 ### Design Tools
+
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe Premiere Pro
 
-### Soft Skills
-- Leadership
-- Teamwork
-- Communication
-- Problem Solving
-- Event Coordination
+---
+
+## 📈 Career Focus
+IT Support           ██████████░░ 80%
+Networking           ████████░░░░ 70%
+Cybersecurity        ███████░░░░░ 60%
+Linux                ██████░░░░░░ 50%
+Web Development      ████████░░░░ 70%
 
 ---
 
-## Experience
+## 🏆 Experience
 
 ### Union of Youth Federations of Cambodia (UYFC)
-Volunteer | 2020 – 2024
 
-- Assisted in organizing community programs and humanitarian activities
-- Participated in planning educational and cultural events
-- Coordinated with team members to ensure successful event execution
-- Developed communication and leadership skills
+- Organized community and humanitarian activities
+- Coordinated educational and cultural events
+- Developed teamwork and leadership skills
+- Assisted with documentation and office tasks
 
 ### Volunteer Activities
-- Soccer League Volunteer (2025)
-- Solidarity March Volunteer (2025)
-- March for Peace Volunteer (2025)
+
+🏅 Soccer League Volunteer
+
+🏅 Solidarity March Volunteer
+
+🏅 March for Peace Volunteer
 
 ---
 
-## Career Objective
+## 🎯 2026 Goals
 
-I am seeking opportunities to gain practical experience through:
-
-- IT Support Internships
-- Help Desk Positions
-- Junior IT Roles
-- Cybersecurity Training Programs
-- Networking and System Administration Internships
-
-My goal is to build a strong foundation in information technology and grow into a cybersecurity professional.
+- Learn Linux Administration
+- Improve Networking Skills
+- Study Cybersecurity Fundamentals
+- Build Real-World IT Projects
+- Earn Industry Certifications
+- Secure an IT Internship
 
 ---
 
-## Current Learning
+## 📊 GitHub Stats
 
-- Networking Fundamentals
-- Linux Basics
-- Cybersecurity Fundamentals
-- Web Technologies
-- IT Infrastructure
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
----
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## Contact
+## 🌐 Connect With Me
 
 📧 Email: Chhanuvann@gmail.com
 
@@ -121,4 +103,8 @@ My goal is to build a strong foundation in information technology and grow into 
 
 ---
 
-> "Continuous learning and practical experience are the foundation of a successful IT career."
+<div align="center">
+
+### ⚡ Learning Today • Building Tomorrow • Securing the Future
+
+</div>
