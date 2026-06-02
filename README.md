@@ -4,7 +4,7 @@
 
 ### 💻 MIS Student • IT Support Enthusiast • Future Cybersecurity Professional
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Management+Information+Systems+Student;IT+Support+and+Networking+Learner;Future+Cybersecurity+Professional;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Management+Information+Systems+Student;IT+Support+and+Networking+Learner;Future+Cybersecurity+Professional;Learning+C%23+C%2B%2B+Python+and+JavaScript;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -16,26 +16,40 @@
 
 📚 IEAP Student at Paññāsāstra University
 
-🔐 Interested in Cybersecurity, Networking, and IT Infrastructure
+🔐 Interested in Cybersecurity, Networking, IT Support, and System Administration
 
 🛠️ Building practical skills through projects, volunteering, and self-learning
 
-🌱 Currently learning Linux, Networking, Cybersecurity, and Web Development
+🌱 Currently learning C++, C#, Python, JavaScript, Linux, Networking, and Cybersecurity
+
+💼 Seeking Internship Opportunities in IT Support, Networking, and Cybersecurity
 
 ---
 
 ## 💻 Technical Skills
 
-### Programming & Web
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,javascript" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
 ### IT & Systems
 
 <p>
 <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Design Tools
@@ -46,12 +60,28 @@
 
 ---
 
+## 🌱 Currently Learning
+
+- 🐍 Python Programming
+- ⚙️ C++ Programming
+- 🔷 C# Development
+- 🌐 JavaScript & Web Technologies
+- 🐧 Linux Administration
+- 🌐 Networking Fundamentals
+- 🔐 Cybersecurity Fundamentals
+
+---
+
 ## 📈 Career Focus
-IT Support           ██████████░░ 80%
-Networking           ████████░░░░ 70%
-Cybersecurity        ███████░░░░░ 60%
-Linux                ██████░░░░░░ 50%
-Web Development      ████████░░░░ 70%
+IT Support          ██████████░░ 80%
+Networking          ████████░░░░ 70%
+Cybersecurity       ███████░░░░░ 60%
+Linux               ██████░░░░░░ 50%
+Web Development     ████████░░░░ 70%
+Python              ███████░░░░░ 60%
+C++                 ███████░░░░░ 60%
+C#                  ██████░░░░░░ 50%
+JavaScript          ██████░░░░░░ 50%
 
 ---
 
@@ -59,18 +89,46 @@ Web Development      ████████░░░░ 70%
 
 ### Union of Youth Federations of Cambodia (UYFC)
 
-- Organized community and humanitarian activities
-- Coordinated educational and cultural events
-- Developed teamwork and leadership skills
+Volunteer | 2020 – 2024
+
+- Assisted in organizing humanitarian activities and community programs
+- Participated in planning educational and cultural events
+- Coordinated with team members to ensure successful event execution
+- Developed communication, teamwork, and leadership skills
 - Assisted with documentation and office tasks
 
 ### Volunteer Activities
 
-🏅 Soccer League Volunteer
+🏅 Soccer League Volunteer (2025)
 
-🏅 Solidarity March Volunteer
+🏅 Solidarity March Volunteer (2025)
 
-🏅 March for Peace Volunteer
+🏅 March for Peace Volunteer (2025)
+
+---
+
+## 📂 Featured Projects
+
+### 🌐 Personal Portfolio Website
+
+- Responsive website using HTML & CSS
+- Personal profile and project showcase
+
+### 💻 IT Support Documentation
+
+- Common troubleshooting solutions
+- Hardware and software maintenance guides
+
+### 🌐 Networking Lab
+
+- Cisco Packet Tracer practice projects
+- Network design and configuration exercises
+
+### 🔐 Cybersecurity Learning Notes
+
+- Linux commands
+- Networking concepts
+- Security fundamentals
 
 ---
 
@@ -82,6 +140,7 @@ Web Development      ████████░░░░ 70%
 - Build Real-World IT Projects
 - Earn Industry Certifications
 - Secure an IT Internship
+- Contribute to Open Source Projects
 
 ---
 
@@ -95,11 +154,22 @@ Web Development      ████████░░░░ 70%
 
 ---
 
+## 📜 Certifications & Courses
+
+- Web Design (HTML & CSS)
+- Microsoft Word & Excel
+- IT Support (Hardware & Software)
+- Graphic Design Fundamentals
+
+---
+
 ## 🌐 Connect With Me
 
 📧 Email: Chhanuvann@gmail.com
 
 💼 Open to Internship Opportunities
+
+🇰🇭 Phnom Penh, Cambodia
 
 ---
 
