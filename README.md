@@ -165,7 +165,7 @@ Volunteer | 2020 – 2024
 
 ## 🌐 Connect With Me
 
-📧 Email: Chhanuvann@gmail.com
+📧 Email: Chhanuvann@gmail.com tel:069 921 999
 
 💼 Open to Internship Opportunities
 
